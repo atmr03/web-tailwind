@@ -6,6 +6,9 @@ module.exports = {
       fontFamily: {
         custom: ["Roboto", "Space"],
       },
+      // backgroundImage: {
+      //   "custom-bg": "url('/img/gambar.png')",
+      // },
     },
   },
   plugins: [],
